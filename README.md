@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... FACTFULNESS
 - 💞️ I’m looking to collaborate on ... Kathy's Project
-- 📫 How to reach me ... Get Backers
+- 📫 How to reach me ... Get Backers（2014）
 
 <!---
 plus-agc-service-yamauchi/plus-agc-service-yamauchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
